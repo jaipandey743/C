@@ -12,7 +12,7 @@ int main()
     }
     else if(age>=18){
         printf("You can drive\n");
-    }
+    } 
     
 
 }
