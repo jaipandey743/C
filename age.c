@@ -8,11 +8,12 @@ int main()
     scanf("%d",&age);
  
     if(age>=90){
+        
         printf("You cannot drive\n");
     }
     else if(age>=18){
         printf("You can drive\n");
-    } 
+    }
     
     return 0;
 
